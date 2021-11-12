@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @prestoj
+- Big fan of Voting Systems 🗳 and democracy!
+- I built and maintain StrawPoll.vote
